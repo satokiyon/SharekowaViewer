@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/category" android:title="カテゴリ選択" android:icon="@android:drawable/ic_menu_agenda">
+  <menu><item android:title="全リスト" android:id="@+id/all_list"></item>
+    <item android:title="シリーズ・関連モノ" android:id="@+id/series"></item>
+    <item android:title="心霊ちょっといい話" android:id="@+id/good_ghost_story"></item>
+    <item android:title="時空の歪み" android:id="@+id/distortion_of_space_time"></item>
+    <item android:title="東京伝説" android:id="@+id/legend_tokyo"></item>
+    <item android:id="@+id/matchless" android:title="洒落コワ無双"></item>
+    <item android:title="ガイシュツ" android:id="@+id/already"></item>
+    <item android:title="怖い話をさらに怖くする" android:id="@+id/more_scary"></item>
+    <item android:title="怖い話投稿掲示板まとめ" android:id="@+id/bbs_summary"></item>
+    <item android:title="怖い話投稿掲示板" android:id="@+id/bbs"></item>
+  
+
+<item android:id="@+id/mobile" android:title="@string/mobile_title"></item>
+</menu>
+</item>
+
+<item android:title="ランキング" android:id="@+id/polling_place_list" android:icon="@android:drawable/ic_menu_sort_by_size">
+  <menu>
+    <group android:id="@+id/regular_group">
+      <item android:id="@+id/matchless" android:title="洒落コワ無双"></item>
+      <item android:title="殿堂入り" android:id="@+id/hall_of_frame_polling_place"></item>
+      <item android:title="投票所" android:id="@+id/polling_place"></item>
+      <item android:title="一桁用投票所" android:id="@+id/pre_plling_place">
+      </item>
+    </group>
+    
+    
+    <group android:id="@+id/good_ghost_story_group">
+      <item android:title="いい話殿堂入り" android:id="@+id/good_ghost_story_in_hall_of_frame_polling_place"></item>
+      <item android:title="いい話投票所" android:id="@+id/good_ghost_story_polling_place"></item>
+    </group>
+    
+    <item android:id="@+id/distortion_of_space_time_polling_place" android:title="時空の歪み・不可思議話投票所"></item>
+  
+</menu>
+  </item>
+
+
+<item android:id="@+id/share" android:title="共有" android:icon="@android:drawable/ic_menu_share">
+  <menu>
+    <item android:id="@+id/share_text" android:title="URLを別アプリに渡す"></item>
+    <item android:title="ブラウザで開く" android:id="@+id/share_with_browser"></item>
+  </menu>
+</item>
+
+<item android:title="お気に入り" android:id="@+id/bookmark" android:icon="@android:drawable/ic_menu_myplaces">
+  <menu>
+    <item android:id="@+id/add_bookmark" android:title="お気に入りに登録"></item>
+    <item android:id="@+id/load_bookmark" android:title="お気に入りを開く"></item>
+  <item android:id="@+id/remove_bookmark" android:title="お気に入りを削除"></item>
+</menu>
+</item>
+
+<item android:id="@+id/preference" android:title="設定" android:icon="@android:drawable/ic_menu_preferences"></item>
+
+</menu>

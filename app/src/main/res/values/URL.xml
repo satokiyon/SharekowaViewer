@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="all_list">http://syarecowa.moo.jp/menu.html</string>
+
+
+<string name="series">http://syarecowa.moo.jp/kanren/kanrenmenu.html</string>
+<string name="good_ghost_story">http://syarecowa.moo.jp/sinnrei-iihanashi/sinnrei.html</string>
+<string name="distortion_of_space_time">http://syarecowa.moo.jp/jikuu/top.html</string>
+<string name="legend_tokyo">http://syarecowa.moo.jp/toukyou/topmenu.html</string>
+<string name="matchless">http://syarecowa.moo.jp/votec.musou/votec.cgi</string>
+<string name="bbs_summary">http://syarecowa.moo.jp/kowai-keiziban/kowai-keiziban.topmenu.html</string>
+<string name="bbs">http://jbbs.livedoor.jp/bbs/lite/subject.cgi/study/9405/</string>
+
+<string name="pre_poling_place">http://syarecowa.moo.jp/votec5/votec.cgi</string>
+<string name="polling_place">http://syarecowa.moo.jp/votec/votec.cgi</string>
+<string name="good_gohst_story_polling_place">http://syarecowa.moo.jp/votec2/votec.cgi</string>
+<string name="distortion_of_space_time_polling_place">http://syarecowa.moo.jp/votec6/votec.cgi</string>
+
+<string name="hall_of_frame_polling_space">http://syarecowa.moo.jp/votec3/votec.cgi</string>
+<string name="good_ghost_story_in_hall_of_frame">http://syarecowa.moo.jp/votec4/votec.cgi</string>
+<string name="already">http://syarecowa.moo.jp/hagegai.htm</string>
+<string name="more_scary">http://syarecowa.moo.jp/yuumei/yuumei.top.html</string>
+<string name="blank">about:blank</string>
+
+<string name="all_list_title">全リスト</string>
+<string name="series_title">シリーズ・関連モノ</string>
+<string name="good_ghost_story_title">心霊ちょっといい話</string>
+<string name="distortion_of_space_time_title">時空の歪み</string>
+<string name="legend_tokyo_title">東京伝説</string>
+<string name="matchless_title">洒落コワ無双</string>
+<string name="bbs_summary_title">怖い話投稿掲示板まとめ</string>
+<string name="bbs_title">怖い話投稿掲示板</string>
+
+<string name="pre_poling_place_title">一桁用投票所</string>
+<string name="polling_place_title">投票所</string>
+<string name="good_gohst_story_polling_place_title">いい話投票所</string>
+<string name="distortion_of_space_time_polling_place_title">時空の歪み・不可思議話投票所</string>
+
+<string name="hall_of_frame_polling_space_title">殿堂入り</string>
+<string name="good_ghost_story_in_hall_of_frame_title">いい話殿堂入り</string>
+<string name="already_title">ガイシュツ</string>
+<string name="more_scary_title">怖い話をさらに怖くする</string>
+<string name="blank_title"></string>
+
+<string name="mobile">http://dokosyare.akazunoma.com/</string>
+<string name="mobile_title">どこでも洒落コワ</string>
+</resources>

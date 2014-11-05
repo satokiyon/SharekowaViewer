@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">洒落コワ ビューア</string>
+<string name="navi_next">次へ</string>
+<string name="navi_prev">前へ</string>
+<string name="navi_random">ランダム</string>
+</resources>

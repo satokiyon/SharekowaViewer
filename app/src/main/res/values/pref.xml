@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="pref_title">洒落コワビューア設定</string><string name="category_page_desgin">ページのデザイン</string>
+
+
+<string name="menu_fontsize_title">メニューの文字サイズ(pt)</string>
+<string name="menu_fontsize_summary">メニューの文字サイズを指定。単位はpt。デフォルトは24(pt)</string>
+<string name="menu_fontsize_dialog_title">メニューのフォントサイズ(pt) デフォルト24(pt)</string>
+
+<string name="menu_fontsize_key">menu_fontsize</string>
+<string name="bookmark_key">bookmark</string>
+
+
+<string name="category_key">category</string><string name="current_part_key">current_part</string><string name="part_list_key">part_list</string><string name="episodelist_key">episode_list</string><string name="black_style_key">black_style</string>
+<string name="black_style_title">黒っぽい見た目にする</string>
+<string name="black_style_summary">各ページの見た目を全体的に黒くする。</string>
+<string name="category_page_transitions">ページ遷移</string><string name="loadWaitTime_key">loadWaitTime</string>
+<string name="loadWaitTime_title">画面切り替え待ち時間(ms)</string>
+<string name="loadWaitTime_summary">ページ遷移時に画面がちらつくのを抑えるために待つ時間。単位はms。デフォルトは300(ms)</string>
+
+
+
+
+
+
+</resources>
